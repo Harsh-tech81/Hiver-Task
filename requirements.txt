@@ -1,0 +1,16 @@
+openai>=1.0
+pandas
+numpy
+scikit-learn
+sentence-transformers
+faiss-cpu
+rouge-score
+nltk
+bert-score
+evaluate
+scipy
+python-dotenv
+kaggle
+tqdm
+opendatasets
+joblib
